@@ -1,0 +1,6 @@
+[submodule "TVS_Credit_IT_Prototype_Backend"]
+	path = TVS_Credit_IT_Prototype_Backend
+	url = https://github.com/orashar/TVS_Credit_IT_Prototype_Backend.git
+[submodule "TVS_Credit_IT_Prototype_Frontend"]
+	path = TVS_Credit_IT_Prototype_Frontend
+	url = https://github.com/orashar/TVS_Credit_IT_Prototype_Frontend.git
