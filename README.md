@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/43087492/142731427-11a54373-1718-45f9-
 
 #### Module - 2
 - Connecting Agent and Customer via video call. 
-- Allowing Face verification, Location verification against the documents provided during KYC
+- Allow Agent to Verify Customer through Face and Geolocation verification against the documents provided during KYC
 - Upload / Download Documents between the users
 
 
